@@ -1,0 +1,332 @@
+{ 
+   "name": "The Wondering Oldman",
+   "author": "xผู้เฒ่าพเนจรx",
+   "url": "",
+   "image": "https://www.dropbox.com/s/wlr7j50udgjzyzj/20220417_131341_0000.png?dl=1",
+   "contact": "",
+   "info": "xเพื่อนความบันเทิงภายในครอบครัว อย่านำไปจำหน่าย นะจ๊ะ!!!!x",
+   "groups": [ 
+
+
+      { 
+         "name": " 🇹🇭Sport Live 🇹🇭",
+         "image": "https://www.dropbox.com/s/qzeu0uk9t8rzcgc/sports.jpg?dl=1",
+         "stations": [ 
+
+{
+"name": "EPL1",
+"image": "https://uppic.cloud/ib/GDYWz4lmag.png",
+"url": "https://edge1.laotv.la/live/TSport1/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL2",
+"image":"https://uppic.cloud/ib/5QeBuWdrky.png",
+"url": "https://edge1.laotv.la/live/TSport2/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL3",
+"image": "https://uppic.cloud/ib/FHRa0fVsBr.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL4",
+"image": "https://uppic.cloud/ib/xF8bFh6XcS.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "EPL5",
+"image": "https://uppic.cloud/ib/nbqVsAC6pN.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSP HD1",
+"image":"https://uppic.cloud/ib/FPQOJFRnop.png",
+"url": "https://edge1.laotv.la/live/TrueSport6/sc-gaFECQ/v1/index.m3u8 ",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSP HD2",
+"image":"https://uppic.cloud/ib/IcUfhFPlvW.png",
+"url": "https://edge1.laotv.la/live/TrueSport2/sc-gaFECQ/v1/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSP HD3",
+"image":"https://uppic.cloud/ib/5ZqbYU3Amd.png",
+"url": "https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/v1/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSP HD4",
+"image":"https://uppic.cloud/ib/Ubez5agQag.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSP5",
+"image":"https://uppic.cloud/ib/8IRZbGd78q.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TSP7",
+"image":"https://uppic.cloud/ib/dV6UNDIgvE.png",
+"url": "https://edge2.laotv.la/live/THD7/sc-gaFECQ/v1/index.m3u8 ",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN1",
+"image":"https://uppic.cloud/ib/qK18aJCJIq.png",
+"url": "https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN2",
+"image":"https://uppic.cloud/ib/lkOuG14DWM.png",
+"url": "https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/v0/index.m3u8",
+"referer": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "BEIN3",
+"image":"https://uppic.cloud/ib/0r7N0PUuRG.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "TENNIS",
+"image": "https://uppic.cloud/ib/UgiYj6zsWs.png",
+"url": "https://ufa77.tv/channel?ch=truetennis",
+"referer": "https://ufa77.tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "GOLF",
+"image": "https://uppic.cloud/ib/pnTH98CT5k.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8",
+"referer": "https://www.dooballfree24hr.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "SPOTV1",
+"image": "https://uppic.cloud/ib/1eRTUCumr3.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "SPOTV2",
+"image": "https://uppic.cloud/ib/PyB5lWm7Rs.png",
+"url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8",
+"referer": "https://dooball2you.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name":"WWE",
+"image": "https://uppic.cloud/ib/F4fsPWRFzy.png",
+"url": "https://dookeela.live/live-tv/wwe#",
+"referer": "https://dookeela.live/live-tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+
+
+
+
+
+
+{
+"name": "EPL 1",
+"image": "https://rentapi.blackboxsys.net/images/png/epl-1.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 2",
+"image": "https://rentapi.blackboxsys.net/images/png/epl-2.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 3",
+"image": "https://rentapi.blackboxsys.net/images/png/epl-3.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 4",
+"image": "https://rentapi.blackboxsys.net/images/png/epl-4.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "EPL 5",
+"image": "https://rentapi.blackboxsys.net/images/png/epl-5.png",
+"url": "https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": " True Sport HD 1",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-tsport1.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": " True Sport HD 1",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-tsport2.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": " True Sport HD 3",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-tsport3.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": " True Sport HD 4",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-tsport4.png",
+"url": "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 5",
+"image": "https://rentapi.blackboxsys.net/images/png/sd-tsport5.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Sport 7",
+"image": "https://rentapi.blackboxsys.net/images/png/sd-tsport7.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "True Tennis",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-tennis.jpg",
+"url": "https://streaming.livescorethai.net/iptv/hd-tennis.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Golf Channel Thailand",
+"image": "https://dooball2you.com/wp-content/uploads/2023/09/golf-channel-thailand.jpg",
+"url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd?",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+{
+"name": "NBC Golf",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/26/dffb2430-fb8a-11ed-ab37-775f5d36f2f4_webp_320.webp",
+"url": "https://streaming.livescorethai.net/iptv/hd-golfeng.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "Sky Sports Premier League",
+"image": "https://seeklogo.com/images/S/sky-sport-golf-logo-275C02C120-seeklogo.com.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8",
+"referer": "https://freetvdd.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+
+"playInNatPlayer": "true"
+},
+
+
+
+
+      ]
+      },	 
+ 
+	]
+	}
+	
